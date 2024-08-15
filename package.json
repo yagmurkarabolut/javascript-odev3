@@ -1,0 +1,19 @@
+{
+  "name": "javascript-odev3",
+  "version": "1.0.0",
+  "description": "javascript ödev 3",
+  "main": "app.js",
+    "scripts": {
+      "build": "react-scripts build"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yagmurkarabolut/javascript-odev3.git"
+  },
+  "author": "Yağmur Karabolut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yagmurkarabolut/javascript-odev3/issues"
+  },
+  "homepage": "https://github.com/yagmurkarabolut/javascript-odev3#readme"
+}
